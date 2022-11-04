@@ -1,5 +1,5 @@
 # DOCKER
-1. ELD:
+1. ELK:
     - Elasticsearch.
     - Logstash.
     - Kibana.
